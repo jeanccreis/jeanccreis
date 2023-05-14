@@ -45,6 +45,6 @@ Sou criador de conteúdo na [Alura | Cursos online de Tecnologia](https://github
 
 ---  
 <div align = "left">  
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=ricarthlima&show_icons=true&show_icons=true&theme=bear&count_private=true" />
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricarthlima&show_icons=true&theme=bear&count_private=true"/>
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=iser-naej&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iser-naej&show_icons=true&theme=bear&count_private=true"/>
 </div>
