@@ -17,20 +17,13 @@ Here are some ideas to get you started:
 
 <img src = ".github/dotcode.png" width = "270px" align = "right">
 
-# Fala galera! Meu nome é Ricarth Lima 👩‍💻
+# Olá! Eu sou o Jean Reis 👩‍💻
 
 <div id="badges">  
   <a href = "https://www.youtube.com/c/DotcodeEdu">
   <img src="https://img.shields.io/badge/YouTube-d83b7d?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  
-  <a href = "https://instagram.com/ricarthlima">
-    <img src="https://img.shields.io/badge/Instagram-1e0e31?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  
-  <a href = "https://twitter.com/ricarthlima">
-    <img src="https://img.shields.io/badge/Twitter-d83b7d?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+   
 </div>
 
 Sou criador de conteúdo na [Alura | Cursos online de Tecnologia](https://github.com/alura-cursos/) e na [DotcodeEdu](https://www.youtube.com/c/DotcodeEdu);
