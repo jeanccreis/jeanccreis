@@ -39,3 +39,11 @@
     <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundClound"/>
   </a>
 </div>
+
+<br>
+
+<blockquote>
+  "Assim como a água reflete o rosto, o coração reflete quem somos nós.
+
+Provérbios 27:19"
+</blockquote>
