@@ -7,8 +7,8 @@
 <br>
 
 <div align = "left">  
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=iser-naej&show_icons=true&show_icons=true&theme=bear&count_private=true" />
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iser-naej&show_icons=true&theme=bear&count_private=true"/>
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=jeancrdo&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeancrdo&show_icons=true&theme=bear&count_private=true"/>
 </div>
 
 ### Linguagens:
