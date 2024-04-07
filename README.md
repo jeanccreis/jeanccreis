@@ -5,10 +5,10 @@
 - 👨🏾‍💻 Atualmente trabalho com desenvolvimento web;
 - 🎹 Músico.
 <br>
-
-<div align = "left">  
+<div align = "left">
   <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=jeanreis-me&show_icons=true&show_icons=true&theme=bear&count_private=true" />
   <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanreis-me&show_icons=true&theme=bear&count_private=true"/>
+  <img height = "250em" src="https://github.com/jeanreis-me/jeanreis-me/assets/78772097/7079434e-1f2d-4d8f-b793-cf39e857e574" />
 </div>
 
 ### Linguagens:
