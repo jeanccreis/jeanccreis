@@ -7,8 +7,8 @@
 <br>
 
 <div align = "left">  
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=jeancrdo&show_icons=true&show_icons=true&theme=bear&count_private=true" />
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeancrdo&show_icons=true&theme=bear&count_private=true"/>
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=jeanreis-me&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanreis-me&show_icons=true&theme=bear&count_private=true"/>
 </div>
 
 ### Linguagens:
@@ -32,7 +32,7 @@
 ---  
 ### Social:
 <div id="badges">  
-  <a href = "https://www.linkedin.com/in/jeancrdo/">
+  <a href = "https://www.linkedin.com/in/jeanreis-me/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href = "https://soundcloud.com/isernaej">
