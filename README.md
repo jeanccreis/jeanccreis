@@ -47,3 +47,5 @@
 
 Provérbios 27:19"
 </blockquote>
+
+![Snake animation](https://github.com/seu-usuário-aqui/jeanreis-me/blob/output/github-contribution-grid-snake.svg)
