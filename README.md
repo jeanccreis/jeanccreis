@@ -3,7 +3,7 @@
 ### Sobre mim:
 - 👨🏾‍🎓 Formado em analises e desenvolvimento de sistemas;
 - 👨🏾‍💻 Atualmente trabalho com desenvolvimento web;
-- 🎹 Músico e produtor nas horas vagas.
+- 🎹 Músico.
 <br>
 
 <div align = "left">  
