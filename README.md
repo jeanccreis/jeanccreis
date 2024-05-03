@@ -1,15 +1,15 @@
-# Olá! Eu sou o Jean Reis 🖖🏾
+# Olá! Eu sou o Jean 🖖🏾
 
 ### Sobre mim:
 - 👨🏾‍🎓 Formado em analises e desenvolvimento de sistemas;
 - 👨🏾‍💻 Atualmente trabalho com desenvolvimento web;
 - 🎹 Músico voluntário.
-<img height = "250em" src="https://github.com/jeanreis-me/jeanreis-me/assets/78772097/7079434e-1f2d-4d8f-b793-cf39e857e574" />
+
 <br>
 <div>
   <a href="https://github.com/jeanreis-me">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanreis-me&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanreis-me&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanreis-me&layout=compact&langs_count=7&theme=nightowl"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanreis-me&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Linguagens:
