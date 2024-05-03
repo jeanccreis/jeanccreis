@@ -1,9 +1,9 @@
-# Olá! Eu sou o Jean 🖖🏾
+# Hello! I'm Jean 🖖🏾
 
-### Sobre mim:
-- 👨🏾‍🎓 Formado em analises e desenvolvimento de sistemas;
-- 👨🏾‍💻 Atualmente trabalho com desenvolvimento web;
-- 🎹 Músico voluntário.
+### About me:
+- 👨🏾‍🎓 Graduated in systems analysis and development;<br>
+- 👨🏾‍💻 Currently working in web development;<br>
+- 🎹 Volunteer musician.
 
 <br>
 <div>
@@ -12,7 +12,7 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanreis-me&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
 </div>
 
-### Linguagens:
+### Languages:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" title="Go" alt="go" width="40" height="40"/>&nbsp;
@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
-### Ferramentas:
+### Tools:
 
 <div>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Visual Studio" alt="Visual studio"/>
