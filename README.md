@@ -7,17 +7,15 @@
 
 <br>
 <div>
-  <a href="https://github.com/jeanreis-me">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanreis-me&layout=compact&langs_count=7&theme=nightowl"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanreis-me&show_icons=true&theme=nightowl&include_all_commits=true&count_private=false"/>
+  <a href="https://github.com/jeaanreiis">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeaanreiis&layout=compact&langs_count=7&theme=nightowl"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jeaanreiis&show_icons=true&theme=nightowl&include_all_commits=true&count_private=false"/>
 </div>
 
 ### Languages:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" title="Go" alt="go" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="Go" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C" width="40" height="40"/>&nbsp;          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" title="Go" alt="go" width="40" height="40"/>&nbsp;       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;  
@@ -37,7 +35,7 @@
 ---  
 ### Social:
 <div id="badges">  
-  <a href = "https://www.linkedin.com/in/jeanreis-me/">
+  <a href = "https://www.linkedin.com/in/jeaanreiis/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href = "https://soundcloud.com/isernaej">
