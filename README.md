@@ -4,10 +4,7 @@
 - 👨🏾‍🎓 Graduated in systems analysis and development;<br>
 - 👨🏾‍💻 Currently working in web development;<br>
 - 🎹 Volunteer musician.
-- 
-<img src="https://starchart.cc/jeanccreis/aslo.svg">
-
-
+---
 ### Languages & Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="45" height="40"/>&nbsp;     
