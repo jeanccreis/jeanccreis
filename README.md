@@ -5,6 +5,8 @@
 - 👨🏾‍💻 Currently working in web development;<br>
 - 🎹 Volunteer musician.
 
+[![StarChart](https://starchart.cc/jeaccreis/jeanccreis.svg)](https://github.com/jeaccreis/jeanccreis)
+
 
 ### Languages & Tools:
 <div>
