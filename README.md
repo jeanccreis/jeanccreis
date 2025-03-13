@@ -7,9 +7,9 @@
 
 <br>
 <div>
-  <a href="https://github.com/jeanreis-dev">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanreis-dev&layout=compact&langs_count=7&theme=nightowl"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanreis-dev&show_icons=true&theme=nightowl&include_all_commits=false&count_private=false"/>
+  <a href="https://github.com/jeanccreis">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanccreis&layout=compact&langs_count=7&theme=nightowl"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanccreis&show_icons=true&theme=nightowl&include_all_commits=false&count_private=false"/>
   
 </div>
 
@@ -35,7 +35,7 @@
 ---  
 ### Social:
 <div id="badges">  
-  <a href = "https://www.linkedin.com/in/jeanreis-dev/">
+  <a href = "https://www.linkedin.com/in/jeanccreis/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href = "https://soundcloud.com/isernaej">
