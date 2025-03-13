@@ -5,10 +5,6 @@
 - 👨🏾‍💻 Currently working in web development;<br>
 - 🎹 Volunteer musician.
 
-<br>
-<div>
-  <a href="https://github.com/jeanccreis">
-</div>
 
 ### Languages & Tools:
 <div>
