@@ -1,7 +1,7 @@
 # Hello! I'm Jean 🖖🏾
 
 ### About me:
-- 👨🏾‍🎓 Graduated in systems analysis and development;<br>
+- 👨🏾‍🎓 Graduate student in Data Analytics;<br>
 - 👨🏾‍💻 Currently working in web development;<br>
 - 🎹 Volunteer musician.
 ---
